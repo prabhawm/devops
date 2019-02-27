@@ -22,16 +22,21 @@
 	</properties>
 
 	<distributionManagement>
-		<repository>
+		<!-- <repository>
 			<id>release</id>
 			<name>release</name>
 			<url>http://localhost:8081/artifactory/libs-release-local</url>
-		</repository>
+		</repository> 
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshot</name>
 			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-		</snapshotRepository>
+		</snapshotRepository> -->
+		<repository>
+			<id>snapshot</id>
+			<name>snapshot</name>
+			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+		</repository>
 	</distributionManagement>
 
 	<scm>
