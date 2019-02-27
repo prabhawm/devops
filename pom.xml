@@ -22,7 +22,7 @@
 	</properties>
 
 	<distributionManagement>
-		<!-- <repository>
+		<repository>
 			<id>release</id>
 			<name>release</name>
 			<url>http://localhost:8081/artifactory/libs-release-local</url>
@@ -31,12 +31,12 @@
 			<id>snapshot</id>
 			<name>snapshot</name>
 			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-		</snapshotRepository> -->
-		<repository>
+		</snapshotRepository>
+		<!-- <repository>
 			<id>snapshot</id>
 			<name>snapshot</name>
 			<url>http://localhost:8081/artifactory/libs-snapshot-local</url>
-		</repository>
+		</repository> -->
 	</distributionManagement>
 
 	<scm>
