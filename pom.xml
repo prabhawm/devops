@@ -35,8 +35,8 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git@github.com:prabhawm/devops.git</connection>
-		<developerConnection>scm:git@github.com:prabhawm/devops.git</developerConnection>
+		<connection>scm:git:https://github.com/prabhawm/devop.git</connection>
+		<developerConnection>scm:git:https://github.com/prabhawm/devop.git</developerConnection>
 		<url>https://github.com/prabhawm/devop.git</url>
 		<tag>HEAD</tag>
 	</scm>
