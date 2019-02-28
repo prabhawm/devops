@@ -37,7 +37,7 @@
 	<scm>
 		<connection>scm:git@github.com:prabhawm/devops.git</connection>
 		<developerConnection>scm:git@github.com:prabhawm/devops.git</developerConnection>
-		<url>git@github.com:prabhawm/devops.git</url>
+		<url>https://github.com/prabhawm/devop.git</url>
 		<tag>HEAD</tag>
 	</scm>
 	<dependencies>
