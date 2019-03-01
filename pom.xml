@@ -35,9 +35,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:http://${GIT_USERNAME}:${GIT_PASSWORD}@github.com/prabhawm/devop.git</connection>
-		<developerConnection>scm:git:http://github.com/prabhawm/devop.git</developerConnection>
-		<url>http://github.com/prabhawm/devop.git</url>
+		<connection>scm:git:https://github.com/prabhawm/devop.git</connection>
+		<developerConnection>scm:git:https://github.com/prabhawm/devop.git</developerConnection>
+		<url>https://github.com/prabhawm/devop.git</url>
 		<tag>HEAD</tag>
 	</scm>
 	<dependencies>
